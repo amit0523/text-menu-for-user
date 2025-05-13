@@ -3,6 +3,8 @@ You can use this program if you want to present a text menu to the user and
 process the user input and keep repeating this cycle until the user exits
 this program.
 
+You can easily change this program according to your requirements.
+
 If you want to use this program according to your requirements then you have
 to make some changes in this program. These changes are not a lot. You need
 to make the changes listed below:
